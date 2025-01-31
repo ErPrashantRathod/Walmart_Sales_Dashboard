@@ -1,4 +1,4 @@
-# Coffee-Sales-Dashboard
+# Walmaet-Sales-Dashboard
 <img src="https://github.com/ErPrashantRathod/Walmart_Sales_Dashboard/blob/main/walmart-products.webp" alt="myql-logo" width="1000" height="500"/>
 
 ---
@@ -19,6 +19,7 @@ Targeting individual consumers yields higher returns.
 
 Monday and Tuesday are the top-performing days.
 Sunday sees the lowest revenue, indicating lower engagement during weekends.
+
 ---
 
 ## Data-Driven Recommendations:
@@ -31,6 +32,7 @@ Technology contributes the most revenue. Upselling and bundling products (e.g., 
 While consumers generate the most revenue, corporate and home office sales can be boosted with bulk discounts and business-specific offers.
 
 Since Monday and Tuesday drive high sales, run flash sales or exclusive discounts on these days to further capitalize on high engagement.
+
 ---
 ## Tools & library -
 
@@ -47,4 +49,3 @@ By leveraging these insights, Walmart can optimize pricing strategies, boost und
 
 <img src="https://github.com/ErPrashantRathod/Walmart_Sales_Dashboard/blob/main/WalmartDashboard%20ss.png" alt="myql-logo" width="1000" height="500"/>
 
-          (https://github.com/ErPrashantRathod/Coffee_Sales_Dashboard/blob/main/Coffeesalesdashboardss.png) &nbsp;
