@@ -45,6 +45,6 @@ By leveraging these insights, Walmart can optimize pricing strategies, boost und
 
 # Screenshot -
 
-<img src="https://github.com/ErPrashantRathod/Coffee_Sales_Dashboard/blob/main/Dashboardscreenshot.png" alt="myql-logo" width="1000" height="500"/>
+<img src="https://github.com/ErPrashantRathod/Walmart_Sales_Dashboard/blob/main/WalmartDashboard%20ss.png" alt="myql-logo" width="1000" height="500"/>
 
           (https://github.com/ErPrashantRathod/Coffee_Sales_Dashboard/blob/main/Coffeesalesdashboardss.png) &nbsp;
