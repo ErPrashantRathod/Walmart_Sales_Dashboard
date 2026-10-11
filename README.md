@@ -10,7 +10,7 @@ Lowest revenue month October
 Seasonal impact evident with higher sales in Q4.
 
 Technology leads in revenue, followed by Furniture  and Office Supplies
-Higher-margin products seem to be in the technology segment.
+Higher-margin products seem to be in the technology segment
 
 Economy shipping dominates, indicating a preference for cost-saving options.
 Immediate and Priority shipping are less popular, possibly due to higher costs.
